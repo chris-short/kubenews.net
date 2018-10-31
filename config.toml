@@ -36,20 +36,40 @@ languagecode = "en"
     weight = 1
     url = "http://bit.ly/kubeweekly"
 [[params.sites]]
+    name = "discuss.kubernetes.io"
+    description = "The official Kubernetes Discourse instance"
+    weight = 2
+    url = "https://discuss.kubernetes.io/"
+[[params.sites]]
+    name = "Kubernetes Blog"
+    description = "The official Kubernetes blog"
+    weight = 3
+    url = "https://kubernetes.io/blog/"
+[[params.sites]]
     name = "DevOps'ish"
     description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
-    weight = 2
+    weight = 4
     url = "https://devopsish.com/"
-[[params.sites]]
-    name = "The New Stack"
-    description = "A digest of the week's most important stories & analyses about the services and infrastructures that developers build and the cultural impact that has on the way we work and live."
-    weight = 3
-    url = "https://thenewstack.io/newsletter-archive"
 [[params.sites]]
     name = "appops reloaded"
     description = "Keep up to date with all things containers, Kubernetes, Docker, Go, Linux, devops, cloud native apps, CI/CD, microservices, AWS, Azure, GCP."
-    weight = 4
+    weight = 5
     url = "https://tinyletter.com/mhausenblas"
+[[params.sites]]
+    name = "PodCTL"
+    description = "A weekly tech podcast focused on Containers, Kubernetes, OpenShift, and Cloud Native Applications"
+    weight = 6
+    url = "https://blog.openshift.com/tag/podctl/"
+[[params.sites]]
+    name = "Last Week in Kubernetes Development"
+    description = "LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting."
+    weight = 7
+    url = "http://lwkd.info/"
+[[params.sites]]
+    name = "The New Stack"
+    description = "A digest of the week's most important stories & analyses about the services and infrastructures that developers build and the cultural impact that has on the way we work and live."
+    weight = 14
+    url = "https://thenewstack.io/newsletter-archive"
 [[params.sites]]
     name = "O'Reilly Systems Engineering and Operations Newsletter"
     description = "Stay informed. Receive weekly insight from industry insiders—plus exclusive content, offers, and more on the topic of systems engineering and operations."
