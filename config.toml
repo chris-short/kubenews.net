@@ -4,7 +4,7 @@ theme = "coder"
 languagecode = "en"
 
 [params]
-    author = "Kubernetes News"
+    author = "Pull Requests Wanted!"
     description = "Kubernetes and Cloud Native Computing Foundation News Sources."
     keywords = "cloud native,newsletters,news,kubernetes"
     info = "Kubernetes News"
