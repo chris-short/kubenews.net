@@ -1,4 +1,4 @@
-baseURL = "https://kubernetesnews.io"
+baseURL = "https://kubenews.io"
 title = "Kubernetes News"
 theme = "coder"
 languagecode = "en"
@@ -20,7 +20,7 @@ languagecode = "en"
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/chris-short/kubernetesnews.io"
+    url = "https://github.com/chris-short/kubenews.io"
 [[params.social]]
     name = "Twitter"
     weight = 2
@@ -29,7 +29,6 @@ languagecode = "en"
     name = "LinkedIn"
     weight = 3
     url = "https://linkedin.com/in/thechrisshort/"
-
 [[params.sites]]
     name = "KubeWeekly"
     description = "Curated weekly digest of all things Kubernetes!"
