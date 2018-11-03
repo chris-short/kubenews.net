@@ -1,4 +1,4 @@
-# Contributing to kubernetesnews.io
+# Contributing to kubenews.io
 
 1. Fork and Clone Repo as Appropriate
 2. Create a new branch from master with your GitHub username

@@ -12,4 +12,4 @@ Inspired by [DevOps Newsletters](https://devopsnewsletters.com/) and Peter Benja
 
 Curated by [Chris Short](https://chrisshort.net/).
 
-[Pull Requests](https://github.com/chris-short/kubernetesnews.io) are welcome! See [CONTRIBUTING.md](https://github.com/chris-short/kubernetesnews.io/blob/master/CONTRIBUTING.md) for details.
+[Pull Requests](https://github.com/chris-short/kubenews.io) are welcome! See [CONTRIBUTING.md](https://github.com/chris-short/kubenews.io/blob/master/CONTRIBUTING.md) for details.
