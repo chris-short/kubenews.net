@@ -31,9 +31,9 @@ languagecode = "en"
     url = "https://linkedin.com/in/thechrisshort/"
 [[params.sites]]
     name = "KubeWeekly"
-    description = "Curated weekly digest of all things Kubernetes!"
+    description = "CNCF curated weekly digest of all things Kubernetes!"
     weight = 1
-    url = "http://bit.ly/kubeweekly"
+    url = "https://kubeweekly.io"
 [[params.sites]]
     name = "discuss.kubernetes.io"
     description = "The official Kubernetes Discourse instance"
@@ -49,11 +49,6 @@ languagecode = "en"
     description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
     weight = 4
     url = "https://devopsish.com/"
-[[params.sites]]
-    name = "appops reloaded"
-    description = "Keep up to date with all things containers, Kubernetes, Docker, Go, Linux, devops, cloud native apps, CI/CD, microservices, AWS, Azure, GCP."
-    weight = 5
-    url = "https://tinyletter.com/mhausenblas"
 [[params.sites]]
     name = "PodCTL"
     description = "A weekly tech podcast focused on Containers, Kubernetes, OpenShift, and Cloud Native Applications"
