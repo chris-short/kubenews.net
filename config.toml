@@ -69,3 +69,8 @@ languagecode = "en"
     description = "Stay informed. Receive weekly insight from industry insiders—plus exclusive content, offers, and more on the topic of systems engineering and operations."
     weight = 15
     url = "https://www.oreilly.com/webops-perf/newsletter.html"
+[[params.sites]]
+    name = "nativecloud.dev"
+    description = "A weekly summary covering Cloud Native Community, Container technologies and Open Source development."
+    weight = 16
+    url = "https://nativecloud.dev"
