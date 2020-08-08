@@ -53,7 +53,7 @@ languagecode = "en"
     name = "PodCTL"
     description = "A weekly tech podcast focused on Containers, Kubernetes, OpenShift, and Cloud Native Applications"
     weight = 6
-    url = "https://blog.openshift.com/tag/podctl/"
+    url = "https://www.podctl.com/"
 [[params.sites]]
     name = "Last Week in Kubernetes Development"
     description = "LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting."
