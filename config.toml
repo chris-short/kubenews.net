@@ -1,4 +1,4 @@
-baseURL = "https://kubenews.io"
+baseURL = "https://kubenews.net"
 title = "Kubernetes News"
 theme = "coder"
 languagecode = "en"

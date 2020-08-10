@@ -48,6 +48,12 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://kubenews.netlify.com/*"
-  to = "https://kubenews.io/:splat"
+  to = "https://kubenews.net/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://kubenews.io/*"
+  to = "https://kubenews.net/:splat"
   status = 301
   force = true
