@@ -2,6 +2,8 @@
 
 # kubenews.io
 
-[Kubernetes News](https://kubenews.io) of Note from around the web. Curated by [Chris Short](https://chrisshort.net).
+[Kubernetes News](https://kubenews.net) of Note from around the web. Curated by [Chris Short](https://chrisshort.net).
 
-[Pull Requests are welcome!](https://github.com/chris-short/kubenews.io/blob/master/CONTRIBUTING.md)
+## Pull Requests are welcome
+
+Contributing to [devopsnewsletters.com](https://devopsnewsletters.com) is done by editing the [config.toml](./config.toml) file. Submit a Pull Request with your changes. Then wait for a review or merge. Done!
