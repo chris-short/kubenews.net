@@ -20,6 +20,10 @@
     <link rel="icon" type="image/png" href="{{ " /favicons/favicon-16x16.png " | absURL }}" sizes="16x16"> {{ if .RSSLink }}
     <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
     <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" /> {{ end }} {{ .Hugo.Generator }}
+
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://toad.kubenews.net/script.js" site="BJBNTBHO" defer></script>
+    <!-- / Fathom -->
 </head>
 
 <body>
@@ -34,10 +38,6 @@
     </main>
 
     {{ template "_internal/google_analytics.html" . }}
-
-    <!-- Fathom - beautiful, simple website analytics -->
-    <script src="https://toad.kubenews.net/script.js" site="BJBNTBHO" defer></script>
-    <!-- / Fathom -->
 
 </body>
 
