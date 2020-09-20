@@ -1,7 +1,7 @@
 +++
 author = "Chris Short"
 date = 2018-06-14T16:51:00Z
-description = "About"
+description = "About kubenews.net - How do you keep up with Kubernetes?"
 draft = false
 slug = "about"
 title = "About"

@@ -6,7 +6,7 @@ languagecode = "en"
 [params]
     author = ""
     info = "Pull Requests Wanted!"
-    description = "Kubernetes and Cloud Native Computing Foundation News Sources"
+    description = "Kubernetes and Cloud Native Computing Foundation News Sources - How do you keep up with Kubernetes?"
     keywords = "cloud native,newsletters,news,kubernetes"
 
     hideCredits = true
