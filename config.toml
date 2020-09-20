@@ -20,7 +20,7 @@ languagecode = "en"
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/chris-short/kubenews.io"
+    url = "https://github.com/chris-short/kubenews.net"
 [[params.social]]
     name = "Twitter"
     weight = 2
@@ -29,6 +29,10 @@ languagecode = "en"
     name = "LinkedIn"
     weight = 3
     url = "https://linkedin.com/in/thechrisshort/"
+[[params.social]]
+    name = "Curated by Chris Short"
+    weight = 4
+    url = "https://advisedbyshort.com/"
 [[params.sites]]
     name = "KubeWeekly"
     description = "CNCF curated weekly digest of all things Kubernetes!"
