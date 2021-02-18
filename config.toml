@@ -84,6 +84,11 @@ languagecode = "en"
     weight = 16
     url = "https://nativecloud.dev"
 [[params.sites]]
+    name = "CloudSecList"
+    description = "The Cloud Security Reading List is a low volume mailing list (once per week) that highlights security-related news focused on the cloud native landscape."
+    weight = 18
+    url = "https://cloudseclist.com/"
+[[params.sites]]
     name = "DevOps Newsletters"
     description = "Looking for a list of newsletters like this related to DevOps? I've got you covered."
     weight = 999
