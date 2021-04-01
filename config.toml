@@ -32,7 +32,7 @@ languagecode = "en"
 [[params.social]]
     name = "Curated by Chris Short"
     weight = 4
-    url = "https://chrisshort.net/"
+    url = "https://linktr.ee/TheChrisShort"
 [[params.sites]]
     name = "KubeWeekly"
     description = "CNCF curated weekly digest of all things Kubernetes!"
