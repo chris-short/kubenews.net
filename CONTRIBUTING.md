@@ -1,7 +1,7 @@
 # Contributing to kubenews.io
 
 1. Fork and Clone Repo as Appropriate
-2. Create a new branch from master with your GitHub username
+2. Create a new branch from main with your GitHub username
 3. Open config.toml
 4. Copy the last five lines
 5. Add new line
