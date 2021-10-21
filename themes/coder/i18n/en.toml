@@ -1,3 +1,0 @@
-[readingTime]
-one = "One minute read"
-other = "{{ .Count }} minutes read"

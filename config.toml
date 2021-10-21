@@ -5,6 +5,9 @@ languagecode = "en"
 
 [module]
 [[module.imports]]
+  disable = false
+  ignoreConfig = false
+  ignoreImports = false
   path = 'github.com/luizdepra/hugo-coder'
 
 [params]
