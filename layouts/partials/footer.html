@@ -12,7 +12,5 @@
       {{ if or (not .Site.Params.hideCredits) (not .Site.Params.hideCopyright) }} · {{ end }}
       [<a href="{{ .Site.Params.commit }}{{ getenv "GIT_COMMIT_SHA" }}">{{ getenv "GIT_COMMIT_SHA_SHORT" }}</a>]
     {{ end }}
-    <p><div id="wcb" class="wcb carbonbadge"></div>
-      <script src="https://unpkg.com/website-carbon-badges@^1/b.min.js" defer></script></p>
   </section>
 </footer>
