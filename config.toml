@@ -47,20 +47,25 @@ languagecode = "en"
     weight = 1
     url = "https://kubeweekly.io"
 [[params.sites]]
-    name = "discuss.kubernetes.io"
-    description = "The official Kubernetes Discourse instance"
-    weight = 2
-    url = "https://discuss.kubernetes.io/"
-[[params.sites]]
     name = "Kubernetes Blog"
     description = "The official Kubernetes blog"
-    weight = 3
+    weight = 2
     url = "https://kubernetes.io/blog/"
+[[params.sites]]
+    name = "Kubernetes Contributors"
+    description = "This site is the home of contributor documentation, and serves as a starting point for your journey as a Kubernetes contributor. It is intended to be the hub for all things related to the Kubernetes Contributor experience. Who exactly is a contributor? We all are–Whether you’re writing docs, reviewing code, participating in the community and its many SIGs, everyone is welcome. We hope this site will be a pathway to success for our 35000+ Kubernetes contributors, providing current, up-to-date information on community events, contributor resources, Kubernetes SIGs, and more."
+    weight = 3
+    url = "https://www.kubernetes.dev/"
 [[params.sites]]
     name = "DevOps'ish"
     description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
     weight = 4
     url = "https://devopsish.com/"
+[[params.sites]]
+    name = "EKS News"
+    description = "EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native"
+    weight = 5
+    url = "https://eks.news/"
 [[params.sites]]
     name = "PodCTL"
     description = "A podcast focused on Containers, Kubernetes and Cloud-native application development."
@@ -89,13 +94,8 @@ languagecode = "en"
 [[params.sites]]
     name = "Kubernetes README"
     description = "What books 📚 to read to learn more about Kubernetes"
-    weight = 997
-    url = "https://kubereadme.com/"
-[[params.sites]]
-    name = "Kubernetes Contributors"
-    description = "This site is the home of contributor documentation, and serves as a starting point for your journey as a Kubernetes contributor. It is intended to be the hub for all things related to the Kubernetes Contributor experience. Who exactly is a contributor? We all are–Whether you’re writing docs, reviewing code, participating in the community and its many SIGs, everyone is welcome. We hope this site will be a pathway to success for our 35000+ Kubernetes contributors, providing current, up-to-date information on community events, contributor resources, Kubernetes SIGs, and more."
     weight = 998
-    url = "https://www.kubernetes.dev/"
+    url = "https://kubereadme.com/"
 [[params.sites]]
     name = "DevOps Newsletters"
     description = "Looking for a list of newsletters like this related to DevOps? I've got you covered."
