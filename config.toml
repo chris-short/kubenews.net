@@ -39,7 +39,7 @@ languagecode = "en"
 [[params.social]]
     name = "Curated by Chris Short"
     weight = 4
-    url = "https://linktr.ee/TheChrisShort"
+    url = "https://chrisshort.me"
 
 [[params.sites]]
     name = "KubeWeekly"
