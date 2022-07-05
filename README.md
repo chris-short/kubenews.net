@@ -8,7 +8,7 @@
 
 # kubenews.io
 
-[Kubernetes News](https://kubenews.net) of Note from around the web. Curated by [Chris Short](https://linktr.ee/TheChrisShort).
+[Kubernetes News](https://kubenews.net) of Note from around the web. Curated by [Chris Short](https://chrisshort.me/).
 
 ## Pull Requests are welcome
 
