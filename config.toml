@@ -43,9 +43,9 @@ languagecode = "en"
 
 [[params.sites]]
     name = "KubeWeekly"
-    description = "CNCF curated weekly digest of all things Kubernetes!"
+    description = "The weekly newsletter for all things Kubernetes and beyond."
     weight = 1
-    url = "https://kubeweekly.io"
+    url = "https://www.cncf.io/kubeweekly/"
 [[params.sites]]
     name = "Kubernetes Blog"
     description = "The official Kubernetes blog"
@@ -58,7 +58,7 @@ languagecode = "en"
     url = "https://www.kubernetes.dev/"
 [[params.sites]]
     name = "DevOps'ish"
-    description = "DevOps, Cloud Native, Open Source, and the 'ish in between."
+    description = "Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the 'ish between."
     weight = 4
     url = "https://devopsish.com/"
 [[params.sites]]
@@ -66,11 +66,6 @@ languagecode = "en"
     description = "EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native"
     weight = 5
     url = "https://eks.news/"
-[[params.sites]]
-    name = "PodCTL"
-    description = "A podcast focused on Containers, Kubernetes and Cloud-native application development."
-    weight = 6
-    url = "https://www.podctl.com/"
 [[params.sites]]
     name = "Kubernetes Podcast from Google"
     description = "A weekly news and interview show with insight from the Kubernetes community."
@@ -83,14 +78,9 @@ languagecode = "en"
     url = "http://lwkd.info/"
 [[params.sites]]
     name = "The New Stack"
-    description = "A digest of the week's most important stories & analyses about the services and infrastructures that developers build and the cultural impact that has on the way we work and live."
+    description = "Get the latest news and trends in app development and management at scale with The New Stack's weekly newsletter, delivered to your inbox each Friday."
     weight = 14
-    url = "https://thenewstack.io/newsletter-archive"
-[[params.sites]]
-    name = "nativecloud.dev"
-    description = "A weekly summary covering Cloud Native Community, Container technologies and Open Source development."
-    weight = 16
-    url = "https://nativecloud.dev"
+    url = "https://thenewstack.io/newsletter/"
 [[params.sites]]
     name = "Kubernetes README"
     description = "What books 📚 to read to learn more about Kubernetes"

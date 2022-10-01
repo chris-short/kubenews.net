@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://kubernetesnews.io/sitemap.xml
+Sitemap: https://kubenews.net/sitemap.xml
