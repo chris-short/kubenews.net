@@ -91,3 +91,8 @@ languagecode = "en"
     description = "Looking for a list of newsletters like this related to DevOps? I've got you covered."
     weight = 999
     url = "https://devopsnewsletters.com/"
+[[params.sites]]
+    name = "nativecloud.dev"
+    description = "A curated weekly portion of links, tools and news shared by the cloud native community."
+    weight = 1000
+    url = "https://nativeclouddev-23052022.fly.dev"
