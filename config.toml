@@ -67,10 +67,10 @@ languagecode = "en"
     weight = 5
     url = "https://eks.news/"
 [[params.sites]]
-    name = "Kubernetes Podcast from Google"
-    description = "A weekly news and interview show with insight from the Kubernetes community."
+    name = "Let's Get To The News"
+    description = "A weekly news roundup from Craig Box, the former co-host and co-founder of the Kubernetes Podcast."
     weight = 7
-    url = "https://kubernetespodcast.com/"
+    url = "https://craigbox.substack.com/"
 [[params.sites]]
     name = "Last Week in Kubernetes Development"
     description = "LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting."
