@@ -82,6 +82,16 @@ languagecode = "en"
     weight = 14
     url = "https://thenewstack.io/newsletter/"
 [[params.sites]]
+    name = "Learn Kubernetes weekly"
+    description = "Curated articles, tutorials, projects and events with a focus on Kubernetes."
+    weight = 15
+    url = "https://learnk8s.io/learn-kubernetes-weekly"
+[[params.sites]]
+    name = "Upcoming Kubernetes Events"
+    description = "Curated meetups, conferences, training and webinars on Kubernetes."
+    weight = 16
+    url = "https://kube.events/newsletter"
+[[params.sites]]
     name = "Kubernetes README"
     description = "What books 📚 to read to learn more about Kubernetes"
     weight = 998
