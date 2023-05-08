@@ -67,6 +67,11 @@ languagecode = "en"
     weight = 5
     url = "https://eks.news/"
 [[params.sites]]
+    name = "Cloud Bulletin"
+    description = "Argonaut's monthly cloud news digest covering k8s, AWS, GCP, OSS tools, events, tutorials, startup jobs."
+    weight = 6
+    url = "https://www.argonaut.dev/#newsletter"
+[[params.sites]]
     name = "Kubernetes Podcast from Google"
     description = "A weekly news and interview show with insight from the Kubernetes community."
     weight = 7
