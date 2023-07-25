@@ -39,32 +39,22 @@ languagecode = "en"
 [[params.social]]
     name = "Curated by Chris Short"
     weight = 4
-    url = "https://chrisshort.me"
+    url = "https://chrisshort.net"
 
-[[params.sites]]
-    name = "KubeWeekly"
-    description = "The weekly newsletter for all things Kubernetes and beyond."
-    weight = 1
-    url = "https://www.cncf.io/kubeweekly/"
 [[params.sites]]
     name = "Kubernetes Blog"
     description = "The official Kubernetes blog"
-    weight = 2
+    weight = 1
     url = "https://kubernetes.io/blog/"
 [[params.sites]]
     name = "Kubernetes Contributors"
     description = "This site is the home of contributor documentation, and serves as a starting point for your journey as a Kubernetes contributor. It is intended to be the hub for all things related to the Kubernetes Contributor experience."
-    weight = 3
+    weight = 2
     url = "https://www.kubernetes.dev/"
-[[params.sites]]
-    name = "DevOps'ish"
-    description = "Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the 'ish between."
-    weight = 4
-    url = "https://devopsish.com/"
 [[params.sites]]
     name = "EKS News"
     description = "EKS News aims to be to go to newsletter for all things AWS EKS, adjacent AWS services, Kubernetes, and Cloud Native"
-    weight = 5
+    weight = 3
     url = "https://eks.news/"
 [[params.sites]]
     name = "Let's Get To The News"
@@ -74,13 +64,33 @@ languagecode = "en"
 [[params.sites]]
     name = "Last Week in Kubernetes Development"
     description = "LWKD is a weekly newsletter summarizing code activity in the Kubernetes project: merges, PRs, deprecations, version updates, release schedules, and the weekly community meeting."
-    weight = 8
+    weight = 5
     url = "http://lwkd.info/"
 [[params.sites]]
     name = "The New Stack"
     description = "Get the latest news and trends in app development and management at scale with The New Stack's weekly newsletter, delivered to your inbox each Friday."
-    weight = 14
+    weight = 10
     url = "https://thenewstack.io/newsletter/"
+[[params.sites]]
+    name = "Learn Kubernetes weekly"
+    description = "Curated articles, tutorials, projects and events with a focus on Kubernetes."
+    weight = 11
+    url = "https://learnk8s.io/learn-kubernetes-weekly"
+[[params.sites]]
+    name = "Cloud Bulletin"
+    description = "Argonaut's monthly cloud news digest covering k8s, AWS, GCP, OSS tools, events, tutorials, startup jobs."
+    weight = 12
+    url = "https://www.argonaut.dev/#newsletter"
+[[params.sites]]
+    name = "CloudSecList"
+    description = "The Cloud Security Reading List is a low volume mailing list (once per week) that highlights security-related news focused on the cloud native landscape."
+    weight = 13
+    url = "https://cloudseclist.com/"
+[[params.sites]]
+    name = "Upcoming Kubernetes Events"
+    description = "Curated meetups, conferences, training and webinars on Kubernetes."
+    weight = 997
+    url = "https://kube.events/newsletter"
 [[params.sites]]
     name = "Kubernetes README"
     description = "What books 📚 to read to learn more about Kubernetes"
