@@ -87,6 +87,11 @@ languagecode = "en"
     weight = 13
     url = "https://cloudseclist.com/"
 [[params.sites]]
+    name = "Kubelist"
+    description = "Your curated weekly k8s information reconciliation loop."
+    weight = 14
+    url = "https://kubelist.com/"
+[[params.sites]]
     name = "Upcoming Kubernetes Events"
     description = "Curated meetups, conferences, training and webinars on Kubernetes."
     weight = 997
