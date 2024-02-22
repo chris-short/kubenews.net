@@ -106,3 +106,8 @@ languagecode = "en"
     description = "Looking for a list of newsletters like this related to DevOps? I've got you covered."
     weight = 999
     url = "https://devopsnewsletters.com/"
+[[params.sites]]
+    name = "Kubernetes Bytes Podcast"
+    description = "A bi-weekly show on all things Kubernetes"
+    weight = 15
+    url = "https://kubernetesbytes.com/"
