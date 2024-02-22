@@ -108,6 +108,6 @@ languagecode = "en"
     url = "https://devopsnewsletters.com/"
 [[params.sites]]
     name = "Kubernetes Bytes Podcast"
-    description = "A bi-weekly show on all thing Kubernetes"
+    description = "A bi-weekly show on all things Kubernetes"
     weight = 15
     url = "https://kubernetesbytes.com/"
